@@ -1,0 +1,6 @@
+Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). “Why should I trust you?”: Explaining the predictions of any classifier. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1135–1144. Retrieved from https://homes.cs.washington.edu/~marcotcr/aaai16.pdf
+Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. Advances in Neural Information Processing Systems, 30. Retrieved from https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf
+Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. Harvard Journal of Law & Technology, 31(2), 841–887. Retrieved from https://arxiv.org/abs/1711.00399
+Molnar, C. (2022). Interpretable machine learning: A guide for making black box models explainable (2nd ed.). Retrieved from https://christophm.github.io/interpretable-ml-book/
+Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., & Pedreschi, D. (2018). A survey of methods for explaining black box models. ACM Computing Surveys, 51(5), 93. Retrieved from https://arxiv.org/abs/1802.01933
+Microsoft Research. (2020). InterpretML: A unified framework for machine learning interpretability. Retrieved from https://github.com/interpretml/interpret
